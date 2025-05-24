@@ -31,8 +31,8 @@ Recent **University of Colorado Boulder** philosophy graduate (at 19!) with a pa
 
 ## 🛠️ Tech Stack
 
-```yaml
 I am in the process of learning everything below...
+```yaml
 Languages: Python, TypeScript/JavaScript, LaTeX
 Frameworks: Next.js, React, Tailwind CSS
 AI/ML: LLMs, RAG Systems, Vector Databases, LLMOps
@@ -42,7 +42,7 @@ Interests: Mechanistic Interpretability, AI Safety, Epistemic Virtue Theory
 
 ## 🌟 Background
 
-- 🎯 **Philosophy B.A.** from CU Boulder with focus on epistemology and ethics
+- 🎯 **Philosophy B.A.** from CU Boulder with an unofficial focus on epistemology and ethics
 - 🏆 **Early Graduate** at 19 through accelerated academic path
 - 📜 **Business Certificates** from Front Range Community College
 - 🧗 **Rock Climbing & Martial Arts** enthusiast
