@@ -58,7 +58,7 @@ Working toward becoming a **thought leader in ethical AI development**, with foc
 
 ## 📫 Let's Connect
 
-- 🌐 **Website**: [micahpobst.com](https://micahprobst.com) *(coming soon)*
+- 🌐 **Website**: [micahprobst.com](https://micahprobst.com) *(coming soon)*
 - 📧 **Email**: [micah.x.probst@gmail.com](mailto:micah.x.probst@gmail.com)
 - 💼 **LinkedIn**: [micah-probst-b80009172](https://www.linkedin.com/in/micah-probst-b80009172/)
 - ✍️ **Writing**: [Inquiry on Substack](https://inquiry.substack.com) *(coming soon)*
