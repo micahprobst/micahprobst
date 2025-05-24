@@ -65,7 +65,7 @@ Working toward becoming a **thought leader in ethical AI development**, with foc
 
 ## 💭 Philosophy Meets Code
 
-I believe technology should be developed with deep consideration for human values and societal impact. My work combines rigorous philosophical analysis with hands-on technical implementation to help build AI systems that are not just capable, but genuinely beneficial for humanity.
+I believe technology should be developed with deep consideration for human values and societal impact. My work seeks to combine rigorous philosophical analysis with hands-on technical implementation to help build AI systems that are not just capable, but genuinely beneficial for humanity.
 
 **Always interested in discussing**: AI ethics, philosophy of mind, responsible technology development, effective altruism, and collaborative research opportunities.
 
