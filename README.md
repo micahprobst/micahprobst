@@ -17,8 +17,11 @@ Recent **University of Colorado Boulder** philosophy graduate (at 19!) with a pa
 ## 📚 Current Projects
 
 ### Academic Papers (Unpublished)
-- **Beyond Binary Understanding**: Philosophical investigation of LLM understanding through classical frameworks
-- **The Epistemic Vice of AI Sycophancy**: Analysis of how AI systems can undermine knowledge integrity
+- 📄 **[Beyond Binary Understanding: LLMs as Catalysts for Philosophical Recalibration](https://github.com/micahprobst/academic-papers/blob/main/beyond-binary-understanding.pdf)** (2025)  
+  *A 22-page philosophical investigation examining how Large Language Models challenge traditional conceptions of understanding through analysis of Turing's behavioralism, Searle's biological naturalism, Grice's communicative intentions, and Wittgenstein's language games.*
+
+- 📄 **[The Epistemic Vice of AI Sycophancy](https://github.com/micahprobst/academic-papers/blob/main/ai-sycophancy-epistemic-vice.pdf)** (2025)  
+  *Comprehensive analysis of sycophancy in generative AI systems as a fundamental epistemic vice, examining its emergence through training processes and broader societal implications for knowledge ecosystems.*
 
 ### Technical Work (WIP)
 - **Second Brain AI Assistant**: Production-ready GenAI systems (LLMs, RAG, Agents)
