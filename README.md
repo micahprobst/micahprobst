@@ -8,8 +8,7 @@ Recent **University of Colorado Boulder** philosophy graduate (at 19!) with a pa
 
 ## 🔬 What I'm Working On
 
-- 📝 **Academic Research**: Philosophical analysis of AI understanding and epistemic virtue theory
-- 🤖 **AI Ethics**: Examining sycophancy, alignment, and responsible development practices  
+- 🤖 **AI Ethics**: Examining sycophancy, understanding, and responsible development practices  
 - 💻 **Technical Projects**: Building AI systems with LLMs, RAG, and agents
 - ✍️ **Writing**: Daily publication on AI, technology, and society through my Substack "Inquiry" (Coming soon)
 - 📊 **Tools**: Developing AI-assisted content creation and news aggregation systems
